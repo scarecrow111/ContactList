@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">名片夹</string>
+    <string name="prompt">更改联系人</string>
+    <string name="menuEditTitle">编辑</string>
+    <string name="menuDeleteTitle">删除</string>
+    <string name="add_app_name">添加联系人</string>
+    <string name="edit_app_name">编辑联系人</string>
+</resources>
